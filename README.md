@@ -1,4 +1,4 @@
-# 🚖 Uber Ride Analysis Using Python & Power BI
+# Uber Ride Analysis Using Python & Power BI
 
 ## 📌 Project Overview
 This project explores Uber ride trends, peak hours, and business insights using **Python, Pandas, Matplotlib and Seaborn**. It focuses on identifying **ride demand, distance patterns, and pricing strategies**.
@@ -15,9 +15,9 @@ This project explores Uber ride trends, peak hours, and business insights using 
 - Pycharm
 
 ## 📂 Files Included
-- **Uber_Ride_Analysis.docx** → Final project report
-- **uber_analysis.ipynb** → Jupyter Notebook for data analysis
-- **Visuals/** → Folder containing key charts and graphs
+- **Uber Ride Analysis Report.docx** → Final project report
+- **Uber Rides Data and Code** → Pyhton code for Analysis
+- **Visuals** → Folder containing key charts and graphs
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-profile-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/anush-mallya-3ba198286)
